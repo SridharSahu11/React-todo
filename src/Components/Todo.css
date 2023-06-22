@@ -1,0 +1,27 @@
+#container{
+    padding: 20px;
+  display: inline-block;
+  width: 300px;
+  border: 1px solid darkgrey;
+  border-radius: 10px;
+  background: #eaeaea;  
+}
+#inputContainer{
+    display: inline-block;
+    font-size: 0.9em;
+    margin: 5px;
+    width: 90%;
+    border: 0;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 1rem;
+}
+#displayContainer{
+    display: inline-block;
+    background-color: #3C4048;
+    margin: 5px;
+    padding: 4px 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+}
